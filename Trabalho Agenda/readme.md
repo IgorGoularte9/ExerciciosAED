@@ -2,9 +2,13 @@ IGOR PEREIRA GOULARTE
 
 Faça uma agenda com o seguinte menu:
 1- Adicionar Pessoa (Nome, Idade, email)
+
 2- Remover Pessoa
+
 3- Buscar Pessoa
+
 4- Listar todos
+
 5- Sair
  
 O desafio é não poder criar variáveis e sim um buffer de memória (void *pBuffer). Nisso vocês terão que fazer o trabalho que o Sistema Operacional faz para vocês ao organizar a memória.
